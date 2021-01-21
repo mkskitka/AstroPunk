@@ -1,2 +1,1 @@
 # AstroPunk
-Anarchy and stuff 
